@@ -1,0 +1,3 @@
+module QMBPhaseDiagram
+
+end # module
