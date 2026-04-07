@@ -1,6 +1,6 @@
 # Subwavelength Triangular Ladder DMRG
 
-DMRG study of bosonic quantum phases in subwavelength optical lattices (brick wall / triangular ladder geometry) using [ITensors.jl](https://github.com/ITensor/ITensors.jl).
+DMRG study of bosonic quantum phases in subwavelength optical lattices (brick wall / triangular ladder geometry) using [ITensors.jl](https://github.com/ITensor/ITensors.jl). Accompanies the paper [*Chiral and pair superfluidity in triangular ladder produced by state-dependent Kronig-Penney lattice*](https://arxiv.org/abs/2603.04498) (Burba et al., 2026).
 
 ## What it does
 
